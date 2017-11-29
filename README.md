@@ -7,7 +7,7 @@ Implement [socks5](https://www.ietf.org/rfc/rfc1928.txt) protocol server side
 ### feature
 
 * TCP connect(0x01)  command
-* UDP association(0x03) command
+* UDP associate(0x03) command
 * Max number of clients
 
 ### example
